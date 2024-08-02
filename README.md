@@ -1,5 +1,5 @@
 Meu nome é **caroline**
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F15078838-desenho-de-flores-fofas&psig=AOvVaw0kUQx0s27JQ4ry4ew8UeQ1&ust=1722688530413000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjHiIWp1ocDFQAAAAAdAAAAABAE)
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
