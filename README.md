@@ -1,5 +1,5 @@
 Meu nome é **caroline**
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcapricho.abril.com.br%2Fmoda%2Ftumblr-cria-gifs-das-princesas-da-disney-como-sereias&psig=AOvVaw35iwd_6k8XF8vOHlk3qhUp&ust=1722688926534000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCICpy8Wq1ocDFQAAAAAdAAAAABAE)
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
