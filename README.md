@@ -2,6 +2,8 @@
 
 Meu nome é **caroline**
 
+![](https://www.icegif.com/wp-content/uploads/olaf-icegif-18.gif)
+
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
