@@ -2,7 +2,7 @@
 
 Meu nome é **caroline**
 
-![](https://www.icegif.com/wp-content/uploads/olaf-icegif-18.gif)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpersonaunesp.com.br%2Fenrolados-10-anos%2F&psig=AOvVaw38Xz4zp4LIMEntOai1DUNx&ust=1722692658674000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNDJqrK41ocDFQAAAAAdAAAAABAm)
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
