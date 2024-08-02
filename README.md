@@ -1,4 +1,4 @@
-Meu nome é *caroline*
+Meu nome é **caroline**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
